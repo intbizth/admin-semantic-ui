@@ -1,5 +1,5 @@
 {
-  "name": "example-github",
+  "name": "vcare-admin-semantic-ui",
   "version": "1.0.0",
   "description": "Example repo showing using SUI as an NPM dependency",
   "main": "index.js",
